@@ -1,6 +1,6 @@
 {
   "name": "congregacao",
-  "homepage": "https://mayconblopes.github.io/congregacao",
+  "homepage": "https://mayconblopes.github.io/congregacao/",
   "version": "0.1.0",
   "scripts": {
     "dev": "vite",
