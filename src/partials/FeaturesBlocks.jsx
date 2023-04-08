@@ -43,7 +43,7 @@ function FeaturesBlocks() {
             >
               <svg
                 className="w-16 h-16 mb-4"
-                xmlns="http://www.w3.org/2000/svg"
+                xmlns="https://www.w3.org/2000/svg"
                 height="48"
                 viewBox="0 96 960 960"
                 width="48"
@@ -68,7 +68,7 @@ function FeaturesBlocks() {
             >
               <svg
                 className="w-16 h-16 mb-4"
-                xmlns="http://www.w3.org/2000/svg"
+                xmlns="https://www.w3.org/2000/svg"
                 height="48"
                 viewBox="0 96 960 960"
                 width="48"
@@ -96,7 +96,7 @@ function FeaturesBlocks() {
             >
               <svg
                 className="w-16 h-16 mb-4"
-                xmlns="http://www.w3.org/2000/svg"
+                xmlns="https://www.w3.org/2000/svg"
                 height="48"
                 viewBox="0 96 960 960"
                 width="48"
